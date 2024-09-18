@@ -1,0 +1,7 @@
+com/movie/script/analysis/CharacterWordMapper.class
+com/movie/script/analysis/CharacterWordReducer.class
+com/movie/script/analysis/DialogueLengthReducer.class
+com/movie/script/analysis/UniqueWordsMapper.class
+com/movie/script/analysis/DialogueLengthMapper.class
+com/movie/script/analysis/MovieScriptAnalysis.class
+com/movie/script/analysis/UniqueWordsReducer.class

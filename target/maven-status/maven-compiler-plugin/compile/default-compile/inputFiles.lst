@@ -1,0 +1,7 @@
+/workspaces/hands-on2-movie-script-analysis-max-levine/src/main/java/com/movie/script/analysis/DialogueLengthMapper.java
+/workspaces/hands-on2-movie-script-analysis-max-levine/src/main/java/com/movie/script/analysis/UniqueWordsReducer.java
+/workspaces/hands-on2-movie-script-analysis-max-levine/src/main/java/com/movie/script/analysis/CharacterWordReducer.java
+/workspaces/hands-on2-movie-script-analysis-max-levine/src/main/java/com/movie/script/analysis/DialogueLengthReducer.java
+/workspaces/hands-on2-movie-script-analysis-max-levine/src/main/java/com/movie/script/analysis/MovieScriptAnalysis.java
+/workspaces/hands-on2-movie-script-analysis-max-levine/src/main/java/com/movie/script/analysis/CharacterWordMapper.java
+/workspaces/hands-on2-movie-script-analysis-max-levine/src/main/java/com/movie/script/analysis/UniqueWordsMapper.java
